@@ -1,7 +1,7 @@
 # Arduino-Movement
 Movement input by Joystick (Analog Joystick) and Display on OLED Display 128x64.
 
-Make sure the connections is same as the one provided in the picture,
+Make sure the connections is same as the one provided in the picture :
 **A0 -> Y Input.
 A1 -> X Input.**
 
